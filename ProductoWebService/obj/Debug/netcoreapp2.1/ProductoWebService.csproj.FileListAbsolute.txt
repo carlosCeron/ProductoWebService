@@ -1,0 +1,14 @@
+C:\Users\cacs6753\source\repos\ProductoWebService\ProductoWebService\bin\Debug\netcoreapp2.1\ProductoWebService.deps.json
+C:\Users\cacs6753\source\repos\ProductoWebService\ProductoWebService\bin\Debug\netcoreapp2.1\ProductoWebService.runtimeconfig.json
+C:\Users\cacs6753\source\repos\ProductoWebService\ProductoWebService\bin\Debug\netcoreapp2.1\ProductoWebService.runtimeconfig.dev.json
+C:\Users\cacs6753\source\repos\ProductoWebService\ProductoWebService\bin\Debug\netcoreapp2.1\ProductoWebService.dll
+C:\Users\cacs6753\source\repos\ProductoWebService\ProductoWebService\bin\Debug\netcoreapp2.1\ProductoWebService.pdb
+C:\Users\cacs6753\source\repos\ProductoWebService\ProductoWebService\obj\Debug\netcoreapp2.1\ProductoWebService.csprojAssemblyReference.cache
+C:\Users\cacs6753\source\repos\ProductoWebService\ProductoWebService\obj\Debug\netcoreapp2.1\ProductoWebService.csproj.CoreCompileInputs.cache
+C:\Users\cacs6753\source\repos\ProductoWebService\ProductoWebService\obj\Debug\netcoreapp2.1\ProductoWebService.RazorAssemblyInfo.cache
+C:\Users\cacs6753\source\repos\ProductoWebService\ProductoWebService\obj\Debug\netcoreapp2.1\ProductoWebService.RazorAssemblyInfo.cs
+C:\Users\cacs6753\source\repos\ProductoWebService\ProductoWebService\obj\Debug\netcoreapp2.1\ProductoWebService.AssemblyInfoInputs.cache
+C:\Users\cacs6753\source\repos\ProductoWebService\ProductoWebService\obj\Debug\netcoreapp2.1\ProductoWebService.AssemblyInfo.cs
+C:\Users\cacs6753\source\repos\ProductoWebService\ProductoWebService\obj\Debug\netcoreapp2.1\ProductoWebService.RazorTargetAssemblyInfo.cache
+C:\Users\cacs6753\source\repos\ProductoWebService\ProductoWebService\obj\Debug\netcoreapp2.1\ProductoWebService.dll
+C:\Users\cacs6753\source\repos\ProductoWebService\ProductoWebService\obj\Debug\netcoreapp2.1\ProductoWebService.pdb
